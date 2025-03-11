@@ -16,6 +16,8 @@
 
 # Snaps of Dashboard
 
+Live Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiYjE4NTI5MTQtMWEwZS00ZWRmLTkyMzctOGI2ZTZkOGY5MzNjIiwidCI6IjlhYzE5ZGRlLWJiZDctNGYxZi1hYzgwLTFjYjVjZTE5MmNlOSJ9&pageName=8785adef3c994e2e5c70
+
 ![Home](https://github.com/user-attachments/assets/3145312b-4093-4a07-8605-f36f38023857)
 
 ![Overview](https://github.com/user-attachments/assets/d52d7306-4982-4675-9757-3fe98d26b57f)
