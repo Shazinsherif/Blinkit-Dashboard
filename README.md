@@ -14,16 +14,4 @@
 ✅ Interactive Filtering & Real-Time Updates – Enable deep data exploration. 
 
 
-# Snaps of Dashboard
 
-Live Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiYjE4NTI5MTQtMWEwZS00ZWRmLTkyMzctOGI2ZTZkOGY5MzNjIiwidCI6IjlhYzE5ZGRlLWJiZDctNGYxZi1hYzgwLTFjYjVjZTE5MmNlOSJ9&pageName=8785adef3c994e2e5c70
-
-![Home](https://github.com/user-attachments/assets/3145312b-4093-4a07-8605-f36f38023857)
-
-![Overview](https://github.com/user-attachments/assets/d52d7306-4982-4675-9757-3fe98d26b57f)
-
-![Sales Overview](https://github.com/user-attachments/assets/8a7be3d7-a045-4d94-ab3c-d3dba1445485)
-
-![Customer](https://github.com/user-attachments/assets/c8c16bff-649c-407e-8012-cde7df96a49e)
-
-![Feedbacks](https://github.com/user-attachments/assets/db49169a-49e9-4371-864f-0e5ac15d8dc3)
